@@ -28,6 +28,7 @@ from bs4 import BeautifulSoup
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
+from nltk.tokenize import RegexpTokenizer
 
 class DataPreprocessing:
     def __init__(self):
