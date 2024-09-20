@@ -1,6 +1,3 @@
-
-Here’s a simple template for a license you can use. The MIT License is a popular choice for open-source projects:
-
 MIT License
 
 Copyright (c) 2024 Oleksii Nekrasov
